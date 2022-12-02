@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>111016029</title>
+</head>
+<body>
+    <table cellsoacing = "20">
+        <tr>
+            <td><img src = "img/FB_IMG_1616769821300-modified.png" width="150" heigh="150"alt = "picture"></td>
+            <td><h1>許晉綸</h1>
+    <p><em><strong><a href="https://csntue.ntue.edu.tw/app/index.php">國立台北教育大學資料系</a></strong></em></p>
+    <p>我是名大學生，喜歡打遊戲、睡覺</p></td>
+        </tr>
+    </table>
+    <hr>
+    <h3>常玩的遊戲</h3>
+    <ul>
+        <li>Warframe</li>
+        <li>Age of Empires</li>
+        <li>Sid Meier's Civilization</li>
+    </ul>
+    <h3>以下時間如果聯繫不上可能在睡覺</h3>
+    <ol>
+        <li>08:00~16:00</li>
+        <li>00:00~08:00</li>
+    </ol>
+</body>
+</html>
